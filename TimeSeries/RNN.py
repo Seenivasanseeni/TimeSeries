@@ -8,6 +8,7 @@ import sys
 
 start_time = time.time()
 restoreFlag=int(sys.argv[1])
+predictFlag=int(sys.argv[2])
 
 def elapsed(sec):
     if (sec < 60):
@@ -117,7 +118,7 @@ with tf.Session() as sess:
     loss_total = 0
     writer.add_graph(sess.graph)
 
-    while (step < training_iters):
+    while (step < training_iters and predictFlag==0):
         offset+=n_input+1
         if (offset > len(training_data) - end_offset):  # for what
             offset = random.randint(0, n_input + 1)
@@ -154,7 +155,8 @@ with tf.Session() as sess:
     saver.save(sess,"tmp/model.ckpt")
     print("Model Saved")
     print("Time : ", elapsed(time.time() - start_time))
-    while True:
+    print("Prediction")
+    while predictFlag==1:
         sentence = input("%s words:".format(n_input))
         sentence = sentence.strip()
         words = sentence.split()
@@ -178,4 +180,3 @@ with tf.Session() as sess:
             print("FINAL sentence", sentence)
         except:
             print("Word not in dictionary")
-            raise Exception("DEBUG")

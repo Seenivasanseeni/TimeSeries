@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d212961-fe68-4c48-8182-13ef1c36e603" name="Default" comment="" />
+    <list default="true" id="4d212961-fe68-4c48-8182-13ef1c36e603" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSeries/RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSeries/RNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSeries/tmp/model.ckpt.meta" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +20,8 @@
       <file leaf-file-name="RNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TimeSeries/RNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="141" selection-start-line="141" selection-end-line="141" />
+            <state relative-caret-position="300">
+              <caret line="182" selection-start-line="182" selection-end-line="182" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -26,8 +32,17 @@
       <file leaf-file-name="Story.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TimeSeries/Story.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="75" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="75" />
+            <state relative-caret-position="342">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="job1.sh.o128600" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TimeSeries/job1.sh.o128600">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1115">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -48,6 +63,9 @@
       <find>input(</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="y" value="27" />
     <option name="width" value="683" />
@@ -67,6 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -112,19 +130,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="27" width="683" height="741" extended-state="4" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120625466" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32843137" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33004925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -138,6 +156,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TimeSeries/RNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeSeries/Story.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TimeSeries/RNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
@@ -157,15 +192,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TimeSeries/Story.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="75" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="75" />
+        <state relative-caret-position="342">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeSeries/job1.sh.o128600">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1115">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TimeSeries/RNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        <state relative-caret-position="300">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
