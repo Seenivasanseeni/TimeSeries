@@ -1,0 +1,226 @@
+
+########################################################################
+#      Date:           Sat Jul 28 22:59:11 PDT 2018
+#    Job ID:           128600.c009
+#      User:           u11460
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,walltime=06:00:00
+########################################################################
+
+(233,)
+Loaded training data
+Iteration 1000 ACC 0.108 LOSS 3.697442739876889
+['related', 'to', 'the'] = Hunt. vs played 
+Iteration 2000 ACC 0.386 LOSS 2.0051065620549853
+['and', 'I’d', 'played'] = every vs every 
+Iteration 3000 ACC 0.609 LOSS 1.225634765207813
+['his', 'death,', 'and'] = I’d vs I’d 
+Iteration 4000 ACC 0.685 LOSS 1.0820749334899264
+['free', 'time', 'to'] = learning vs learning 
+Iteration 5000 ACC 0.682 LOSS 1.0875163849469163
+['I’d', 'started', 'to'] = call vs call 
+Iteration 6000 ACC 0.767 LOSS 0.8109463319539211
+['and', 'I’d', 'played'] = every vs I 
+Iteration 7000 ACC 0.774 LOSS 0.8638110107386509
+['read', 'them', 'all.'] = Several vs Several 
+Iteration 8000 ACC 0.779 LOSS 0.813015872535906
+['dozen', 'different', 'Halliday'] = biographies vs biographies 
+Iteration 9000 ACC 0.799 LOSS 0.7489831256810917
+['possibly', 'could', 'about'] = James vs James 
+Iteration 10000 ACC 0.817 LOSS 0.6956422961361942
+['call', 'my', '“grail'] = diary” vs diary” 
+Iteration 11000 ACC 0.778 LOSS 0.8403099155790428
+['I’d', 'started', 'to'] = call vs videogame 
+Iteration 12000 ACC 0.808 LOSS 0.6750495786270306
+['I', 'took', 'notes,'] = writing vs writing 
+Iteration 13000 ACC 0.819 LOSS 0.6509504412435311
+['Halliday', 'had', 'ever'] = written, vs written, 
+Iteration 14000 ACC 0.813 LOSS 0.6834560442451366
+['him,', 'and', 'I’d'] = studied vs studied 
+Iteration 15000 ACC 0.826 LOSS 0.6047194887641784
+['and', 'I’d', 'studied'] = those, vs those, 
+Iteration 16000 ACC 0.867 LOSS 0.4363264562646872
+['accomplishments,', 'and', 'interests.'] = Over vs Over 
+Iteration 17000 ACC 0.836 LOSS 0.5735352978210189
+['five', 'years,', 'I’d'] = devoted vs devoted 
+Iteration 18000 ACC 0.839 LOSS 0.5085679892191527
+['to', 'the', 'Hunt.'] = I vs I 
+Iteration 19000 ACC 0.862 LOSS 0.4779457270917894
+['Halliday', 'had', 'ever'] = written, vs written, 
+Iteration 20000 ACC 0.871 LOSS 0.48723708426473705
+['those,', 'too.', 'I’d'] = studied vs studied 
+Iteration 21000 ACC 0.86 LOSS 0.44475490774089127
+['them', 'all.', 'Several'] = documentary vs documentary 
+Iteration 22000 ACC 0.854 LOSS 0.5237849456411836
+['published', 'in', 'the'] = years vs years 
+Iteration 23000 ACC 0.864 LOSS 0.5188919263600559
+['studied', 'his', 'life,'] = accomplishments, vs accomplishments, 
+Iteration 24000 ACC 0.881 LOSS 0.3861323921777253
+['possibly', 'could', 'about'] = James vs James 
+Iteration 25000 ACC 0.855 LOSS 0.5126898254030098
+['past', 'five', 'years,'] = I’d vs I’d 
+Iteration 26000 ACC 0.882 LOSS 0.39924938728864695
+['kept', 'everything', 'in'] = a vs a 
+Iteration 27000 ACC 0.882 LOSS 0.41873258166546634
+['ever', 'written,', 'and'] = I’d vs I’d 
+Iteration 28000 ACC 0.876 LOSS 0.4585436217169639
+['made', 'about', 'him,'] = and vs and 
+Iteration 29000 ACC 0.88 LOSS 0.42619081925202335
+['documentary', 'films', 'had'] = also vs also 
+Iteration 30000 ACC 0.884 LOSS 0.45448018674913454
+['and', 'interests.', 'Over'] = a vs a 
+Iteration 31000 ACC 0.895 LOSS 0.37323856345415085
+['learning', 'as', 'much'] = as vs as 
+Iteration 32000 ACC 0.892 LOSS 0.4073916135155976
+['call', 'my', '“grail'] = diary” vs diary” 
+Iteration 33000 ACC 0.901 LOSS 0.3677740129358756
+['notebook', '(which', 'I’d'] = started vs started 
+Iteration 34000 ACC 0.892 LOSS 0.38677915075456376
+['thought', 'might', 'be'] = related vs every 
+Iteration 35000 ACC 0.899 LOSS 0.3633211866358335
+['written,', 'and', 'I’d'] = played vs played 
+Iteration 36000 ACC 0.899 LOSS 0.40206138689145376
+['also', 'been', 'made'] = about vs and 
+Iteration 37000 ACC 0.883 LOSS 0.45372065324454364
+['his', 'death,', 'and'] = I’d vs I’d 
+Iteration 38000 ACC 0.896 LOSS 0.3913374059296806
+['different', 'Halliday', 'biographies'] = had vs had 
+Iteration 39000 ACC 0.898 LOSS 0.3665152138463333
+['five', 'years,', 'I’d'] = devoted vs devoted 
+Iteration 40000 ACC 0.884 LOSS 0.4802695202133995
+['I’d', 'started', 'to'] = call vs call 
+Iteration 41000 ACC 0.892 LOSS 0.4412234004681655
+['a', 'notebook', '(which'] = I’d vs I’d 
+Iteration 42000 ACC 0.908 LOSS 0.3202067066320268
+['word', 'Halliday', 'had'] = ever vs ever 
+Iteration 43000 ACC 0.909 LOSS 0.30148176231731755
+['I’d', 'read', 'them'] = all. vs all. 
+Iteration 44000 ACC 0.918 LOSS 0.3081792985789338
+['exhaustively', 'studied', 'his'] = life, vs life, 
+Iteration 45000 ACC 0.89 LOSS 0.4291662231276273
+['years,', 'I’d', 'devoted'] = all vs all 
+Iteration 46000 ACC 0.885 LOSS 0.47131915763959964
+['“grail', 'diary”', 'after'] = watching vs watching 
+Iteration 47000 ACC 0.904 LOSS 0.38753021121565984
+['detail', 'I', 'thought'] = might vs might 
+Iteration 48000 ACC 0.906 LOSS 0.35223057366335353
+['ever', 'made.', 'I'] = took vs took 
+Iteration 49000 ACC 0.902 LOSS 0.400509362097156
+['Halliday', 'had', 'ever'] = written, vs written, 
+Iteration 50000 ACC 0.893 LOSS 0.43066927563827556
+['had', 'also', 'been'] = made vs had 
+Optimization finished
+Model Saved
+Time :  1.0 hr
+%s words:(233,)
+Loaded training data
+Model Restored
+Iteration 1000 ACC 0.118 LOSS 3.842591412766837
+['in', 'a', 'notebook'] = (which vs and 
+Iteration 2000 ACC 0.363 LOSS 1.9973698660890187
+['and', 'I’d', 'played'] = every vs I 
+Iteration 3000 ACC 0.568 LOSS 1.3473832162267168
+['about', 'him,', 'and'] = I’d vs thought 
+Iteration 4000 ACC 0.765 LOSS 0.7684252690480315
+['his', 'death,', 'and'] = I’d vs I’d 
+Iteration 5000 ACC 0.687 LOSS 1.1534912476565007
+['exhaustively', 'studied', 'his'] = life, vs life, 
+Iteration 6000 ACC 0.786 LOSS 0.7911747523739896
+['call', 'my', '“grail'] = diary” vs diary” 
+Iteration 7000 ACC 0.732 LOSS 0.9109408088878586
+['Hunt.', 'I', 'kept'] = everything vs might 
+Iteration 8000 ACC 0.818 LOSS 0.6797004104210866
+['made.', 'I', 'took'] = notes, vs notes, 
+Iteration 9000 ACC 0.787 LOSS 0.787542566276353
+['too.', 'I’d', 'studied'] = every vs every 
+Iteration 10000 ACC 0.797 LOSS 0.7795574859620319
+['films', 'had', 'also'] = been vs been 
+Iteration 11000 ACC 0.835 LOSS 0.5860054075194253
+['studied', 'his', 'life,'] = accomplishments, vs accomplishments, 
+Iteration 12000 ACC 0.835 LOSS 0.6630733298664513
+['call', 'my', '“grail'] = diary” vs diary” 
+Iteration 13000 ACC 0.85 LOSS 0.5660250630453106
+['I', 'thought', 'might'] = be vs writing 
+Iteration 14000 ACC 0.839 LOSS 0.6221564019325131
+['played', 'every', 'videogame'] = he’d vs he’d 
+Iteration 15000 ACC 0.832 LOSS 0.5916857014587188
+['I’d', 'studied', 'every'] = word vs word 
+Iteration 16000 ACC 0.835 LOSS 0.6181484477751642
+['also', 'been', 'made'] = about vs about 
+Iteration 17000 ACC 0.865 LOSS 0.47252150765272954
+['his', 'death,', 'and'] = I’d vs I’d 
+Iteration 18000 ACC 0.867 LOSS 0.48504154477447314
+['much', 'as', 'I'] = possibly vs possibly 
+Iteration 19000 ACC 0.839 LOSS 0.561450881680078
+['of', 'my', 'free'] = time vs time 
+Iteration 20000 ACC 0.877 LOSS 0.45513596440552684
+['kept', 'everything', 'in'] = a vs a 
+Iteration 21000 ACC 0.864 LOSS 0.4627511284613437
+['made.', 'I', 'took'] = notes, vs notes, 
+Iteration 22000 ACC 0.863 LOSS 0.4526821228535616
+['studied', 'every', 'word'] = Halliday vs Halliday 
+Iteration 23000 ACC 0.874 LOSS 0.4463202167027559
+['published', 'in', 'the'] = years vs years 
+Iteration 24000 ACC 0.877 LOSS 0.45823394035247167
+['Over', 'a', 'dozen'] = different vs different 
+Iteration 25000 ACC 0.868 LOSS 0.5096877747529537
+['as', 'I', 'possibly'] = could vs could 
+Iteration 26000 ACC 0.889 LOSS 0.39701727731595254
+['five', 'years,', 'I’d'] = devoted vs devoted 
+Iteration 27000 ACC 0.879 LOSS 0.45969975654491146
+['Hunt.', 'I', 'kept'] = everything vs might 
+Iteration 28000 ACC 0.875 LOSS 0.46672919976245225
+['Halliday', 'had', 'ever'] = written, vs written, 
+Iteration 29000 ACC 0.886 LOSS 0.401705957273597
+['also', 'been', 'made'] = about vs and 
+Iteration 30000 ACC 0.882 LOSS 0.5031747015771465
+['I’d', 'read', 'them'] = all. vs all. 
+Iteration 31000 ACC 0.889 LOSS 0.43706528066703154
+['been', 'published', 'in'] = the vs the 
+Iteration 32000 ACC 0.878 LOSS 0.49492018043861724
+['as', 'I', 'possibly'] = could vs could 
+Iteration 33000 ACC 0.887 LOSS 0.4119026389891248
+['notebook', '(which', 'I’d'] = started vs started 
+Iteration 34000 ACC 0.903 LOSS 0.34924170064111015
+['detail', 'I', 'thought'] = might vs everything 
+Iteration 35000 ACC 0.918 LOSS 0.2847201863785011
+['ever', 'written,', 'and'] = I’d vs I’d 
+Iteration 36000 ACC 0.883 LOSS 0.4140844833943602
+['those,', 'too.', 'I’d'] = studied vs studied 
+Iteration 37000 ACC 0.896 LOSS 0.4011334230440833
+['in', 'the', 'years'] = since vs since 
+Iteration 38000 ACC 0.9 LOSS 0.3542015697958035
+['accomplishments,', 'and', 'interests.'] = Over vs Over 
+Iteration 39000 ACC 0.898 LOSS 0.35258662474168007
+['free', 'time', 'to'] = learning vs learning 
+Iteration 40000 ACC 0.909 LOSS 0.37795401070056633
+['everything', 'in', 'a'] = notebook vs notebook 
+Iteration 41000 ACC 0.885 LOSS 0.43002368017140463
+['took', 'notes,', 'writing'] = down vs every 
+Iteration 42000 ACC 0.896 LOSS 0.37966839250348594
+['studied', 'every', 'word'] = Halliday vs Halliday 
+Iteration 43000 ACC 0.901 LOSS 0.43843367584264853
+['made', 'about', 'him,'] = and vs and 
+Iteration 44000 ACC 0.904 LOSS 0.4364942878490494
+['his', 'death,', 'and'] = I’d vs I’d 
+Iteration 45000 ACC 0.906 LOSS 0.3702999526174269
+['Over', 'a', 'dozen'] = different vs different 
+Iteration 46000 ACC 0.888 LOSS 0.46642648610170073
+['James', 'Halliday.', 'I’d'] = exhaustively vs exhaustively 
+Iteration 47000 ACC 0.898 LOSS 0.4266841393746624
+['as', 'I', 'possibly'] = could vs could 
+Iteration 48000 ACC 0.903 LOSS 0.3809971700087269
+['learning', 'as', 'much'] = as vs as 
+Iteration 49000 ACC 0.914 LOSS 0.31347455313150896
+['five', 'years,', 'I’d'] = devoted vs devoted 
+Iteration 50000 ACC 0.911 LOSS 0.3657824235386572
+['I’d', 'started', 'to'] = call vs call 
+Optimization finished
+Model Saved
+Time :  1.0 hr
+%s words:Done
+
+########################################################################
+# End of output for job 128600.c009
+# Date: Sun Jul 29 01:16:37 PDT 2018
+########################################################################
+
